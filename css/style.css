@@ -1,0 +1,16 @@
+body {
+	background: url(../img/bg/bg.jpg) center/cover fixed no-repeat;
+
+}
+
+*{padding:0;margin:0;}
+
+.caption {
+    text-align:  center;
+}
+
+
+.thumbnail img {
+	width: 250px;
+	height: 250px;
+}
